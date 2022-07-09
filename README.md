@@ -1,7 +1,7 @@
 # pirate_platformer
 Pirate Platformer that is in the style of Mario
 
-To run game: run main.py
+To run game: run main.py in /code 
 
 
 Space to Jump
